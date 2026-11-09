@@ -1,0 +1,89 @@
+---
+title: "Maicel E. Monzón-Pérez, MD, PhD"
+subtitle: "Biostatistician & Epidemiologist · Reproducible quantitative evidence for public health, nutrition and clinical research"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2cm
+      y: 1.8cm
+    fontsize: 10pt
+  docx: default
+---
+
+Havana, Cuba · [maicel.monzon@gmail.com](mailto:maicel.monzon@gmail.com) · [bioestadisticaedu.com](https://bioestadisticaedu.com) · [github.com/maicel1978](https://github.com/maicel1978) · ORCID [0000-0003-2117-9145](https://orcid.org/0000-0003-2117-9145)
+
+## Profile
+
+Medical doctor and biostatistician (second-degree specialist, PhD in Medical Sciences) with 20 years of experience turning complex health data into decision-ready evidence. Recent work for WFP: analysis of a national household income and expenditure survey to estimate apparent micronutrient intake and model large-scale food fortification scenarios, delivered as a reproducible R pipeline and an e-learning platform. Background in clinical trial statistics and regulatory review. Remote or field-based; Spanish (native) and English.
+
+## Core skills
+
+- **Household surveys and nutrition:** HCES analysis, apparent intake, adult male equivalents, food composition crosswalks, EAR cut-point and probability approaches, fortification scenario modelling.
+- **Statistics:** design-based inference for complex samples, clinical prediction models, sample size and randomisation, statistical analysis plans for clinical trials.
+- **Reproducible workflows:** R (survey, srvyr, tidyverse), Quarto, Git/GitHub, audit trails with control figures; Python.
+- **Capacity strengthening:** curriculum design, e-learning modules, training of health professionals.
+
+## Experience
+
+**Consultant, Programme Policy (Nutrition)** — World Food Programme, Dominican Republic Country Office · Jul–Oct 2026
+
+- Resolved the open question of whether the 2018 National Household Income and Expenditure Survey (ENGIH) could support nutrition analysis: delivered the feasibility report early and extended it to an advanced micronutrient intake analysis.
+- Built a reproducible R pipeline (survey design, paired differences between scenarios with confidence intervals) estimating the potential contribution of current national standards, WHO-recommended levels and rice fortification to iron, folate, zinc and vitamin A adequacy.
+- Identified that one survey section records weights rather than consumed quantities, preventing a biased intake estimate.
+- Designed and deployed an e-learning platform on coverage, consumption and contribution of fortified foods, with modular R code, scripts and question banks ([fortificacion.netlify.app](https://fortificacion.netlify.app)).
+- Presented results to WFP teams and partner organisations. Manuscript for a peer-reviewed journal in preparation with WFP co-authors.
+
+**Clinical Trials Reviewer** — Centre for State Control of Medicines, Equipment and Medical Devices (CECMED), Havana · 2023–present
+
+- Review of clinical trial protocols and results for regulatory decision-making.
+
+**Assistant Professor of Biostatistics** — National School of Public Health (ENSAP), Havana · 2022–present
+
+- Teaching of statistical methods for public health and of clinical trial design and conduct at postgraduate level.
+
+**Biostatistician; Head of Statistical Analysis (from 2019)** — National Coordinating Centre for Clinical Trials (CENCEC), Havana · 2013–2022
+
+- Statistical analysis plans, sample size calculation, randomisation and final analyses for efficacy and safety trials of medicines and biotechnology products.
+
+**Statistician and Head of Research** — Dr. José Gregorio Hernández Mission, Venezuela · 2010–2013
+
+- Statistician of the national Comprehensive Study of Persons with Disabilities; led the design and conduct of research at the National Centre of Medical Genetics.
+
+**Bioinformatician and Lecturer** — Centre for Cybernetics Applied to Medicine (CECAM), Havana · 2004–2010
+
+- Predictive and mathematical models for epidemiological analysis; teaching of artificial intelligence applied to health sciences.
+
+## Education
+
+- **PhD in Medical Sciences** — University of Medical Sciences of Havana, 2025. Thesis: clinical prediction models for COVID-19 mortality risk.
+- **Second-degree Specialist in Biostatistics** — National School of Public Health, 2023.
+- **First-degree Specialist in Biostatistics** — National School of Public Health / INHEM, 2008.
+- **MSc in Health Informatics** — Centre for Cybernetics Applied to Medicine, 2007.
+- **Doctor of Medicine** — Higher Institute of Medical Sciences of Villa Clara, 2003.
+- Postgraduate diplomas in data mining and pattern recognition — CENATAV, 2005.
+
+## Awards
+
+- "Hombres de Ciencia" seal, National Health Workers' Union, 2021 — for the evaluation of medicines and vaccine candidates during COVID-19.
+- Grand Prize, National Educational Software Workshop (Edusoft), 2003; Honourable mention, National Annual Health Award, 2003; Student Researcher Award, 2003.
+
+## Selected publications
+
+18 peer-reviewed publications; full list on [ORCID](https://orcid.org/0000-0003-2117-9145).
+
+- Knowledge and attitudes about artificial intelligence in Cuban health professionals and students. *Lecture Notes in Networks and Systems* 1526, Springer, 2026. doi:10.1007/978-3-031-99699-3_4
+- La elección metodológica entre enfoques tradicionales y aprendizaje automático en salud pública. *Rev Cubana Inform Méd* 2026;18:e879.
+- Estado y tendencias en la investigación sobre modelos de predicción clínica para la estratificación del riesgo de severidad en pacientes confirmados de Covid-19. *Rev Haban Cienc Méd* 2023;22(1).
+- Identificación de pacientes de bajo riesgo de severidad en confirmados de la COVID-19. Cuba. Años 2020-2021. *Rev Haban Cienc Méd* 2023;22(1).
+- Effects of policosanol in patients with metabolic syndrome: a six-month study. *J Endocrinol Metab* 2020;10(2):36–44.
+
+## Open tools
+
+About 40 free web tools for researchers and teachers (sample size, power, randomisation, trial appraisal and others) at [bioestadisticaedu.com](https://bioestadisticaedu.com).
+
+## Languages
+
+Spanish: native · English: professional working proficiency · Portuguese: basic
+
+*References available on request.*
