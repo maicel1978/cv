@@ -1,19 +1,21 @@
 # CV · Maicel E. Monzón-Pérez
 
-Fuente única en Quarto. Renderizar: `quarto render cv_wfp_en.qmd` → PDF (Typst) y DOCX.
+Plantilla `pagedown::html_resume` (la misma del CV anterior), con fuente única en R Markdown.
+
+```r
+rmarkdown::render("cv_wfp_en.Rmd")          # → cv_wfp_en.html
+pagedown::chrome_print("cv_wfp_en.html")    # → cv_wfp_en.pdf (usa Chrome/Chromium; sin conexión)
+```
 
 | Archivo | Variante | Uso |
 |---|---|---|
-| `cv_wfp_en.qmd` | L1 delante (encuestas, nutrición, fortificación) | WFP, UNICEF, FAO, GAIN, GNC |
-| _pendiente_ `cv_paho_en.qmd` | L2 delante (ensayos clínicos, regulación) | OPS/OMS, CRO |
+| `cv_wfp_en.Rmd` | L1 delante (encuestas, nutrición, fortificación) | WFP, UNICEF, FAO, GAIN, GNC |
+| _pendiente_ `cv_trials_en.Rmd` | L2 delante (ensayos clínicos, regulación) | OPS/OMS, CRO, freelance |
 
-## Por confirmar antes de enviar (Maicel)
-- [ ] Nivel real de inglés (hoy: «professional working proficiency») y de portugués.
-- [ ] CENCEC: ¿bioestadístico desde 2013 y responsable de análisis desde 2019? (el sitio y el CV viejo difieren).
-- [ ] CECAM: ¿2004–2010? (el sitio dice 2003–2010 y se solapa con Venezuela).
-- [ ] Especialidad de 1.er grado: ¿ENSAP o INHEM? Año 2008.
-- [ ] Especialidad de 2.º grado: ¿2022 o 2023?
-- [ ] Medicina: ¿ISCM Villa Clara o Facultad de Cienfuegos?
-- [ ] Título exacto del puesto WFP («Consultant Programme Policy», perfil «Nutritionist»).
-- [ ] Recuento de publicaciones (18 según el sitio).
-- [ ] Confirmar con WFP que se puede citar el manuscrito «en preparación».
+Estilo: `custom.css` (colores y ancho de la barra lateral). Foto: `photo.jpg`.
+Fechas y títulos: tomados de bioestadisticaedu.com/experience (fuente de verdad).
+
+## Por confirmar antes de enviar
+- [ ] Nivel de inglés (hoy: «working knowledge») y de portugués («basic»).
+- [ ] Título exacto del puesto WFP (hoy: «Consultant, Programme Policy (Nutrition)»).
+- [ ] Que el CV quepa en 2 páginas al imprimir; si no, quitar la última publicación.

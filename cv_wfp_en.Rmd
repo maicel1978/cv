@@ -1,0 +1,214 @@
+---
+title: "Maicel E. Monzón-Pérez — CV"
+author: Maicel E. Monzón-Pérez
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+    css: [resume, custom.css]
+---
+
+Aside
+================================================================================
+
+![Maicel E. Monzón-Pérez](photo.jpg){width=75%}
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> maicel.monzon@gmail.com
+- <i class="fa fa-globe"></i> [bioestadisticaedu.com](https://bioestadisticaedu.com)
+- <i class="fa fa-github"></i> [github.com/maicel1978](https://github.com/maicel1978)
+- <i class="fa fa-id-card"></i> ORCID [0000-0003-2117-9145](https://orcid.org/0000-0003-2117-9145)
+- <i class="fa fa-map-marker"></i> Havana, Cuba · remote or field-based
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Household surveys & nutrition:** HCES analysis, apparent intake, food composition crosswalks, EAR cut-point, fortification scenario modelling
+- **Statistics:** design-based inference for complex samples, clinical prediction models, sample size, randomisation, statistical analysis plans
+- **Reproducible workflows:** R (survey, srvyr, tidyverse), Quarto, Git/GitHub; Python; LaTeX
+- **Capacity strengthening:** e-learning, curriculum design, teaching
+
+Languages {#languages}
+--------------------------------------------------------------------------------
+
+- Spanish: native
+- English: working knowledge
+- Portuguese: basic
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r format(Sys.Date(), "%d %B %Y")`. References available on request.
+
+Main
+================================================================================
+
+Maicel E. Monzón-Pérez, MD, PhD {#title}
+--------------------------------------------------------------------------------
+
+### Biostatistician & Epidemiologist · Reproducible quantitative evidence for public health, nutrition and clinical research
+
+Medical doctor and biostatistician (second-degree specialist, PhD in Medical Sciences) with 20 years turning complex health data into decision-ready evidence. Recent WFP work: analysis of a national household income and expenditure survey to estimate apparent micronutrient intake and model large-scale food fortification scenarios, delivered as a reproducible R pipeline and an e-learning platform. Background in clinical trial statistics and regulatory review.
+
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Consultant, Programme Policy (Nutrition)
+
+World Food Programme, Dominican Republic Country Office
+
+Santo Domingo
+
+2026
+
+- Delivered early the feasibility assessment of the 2018 National Household Income and Expenditure Survey (ENGIH) for nutrition analysis, and extended it to an advanced micronutrient intake analysis.
+- Built a reproducible R pipeline (survey design, paired differences between scenarios with confidence intervals) estimating the potential contribution of national standards, WHO-recommended levels and rice fortification to iron, folate, zinc and vitamin A adequacy.
+- Detected that one survey section records weights rather than consumed quantities, preventing a biased intake estimate.
+- Designed and deployed an e-learning platform with modular R code, scripts and question banks ([fortificacion.netlify.app](https://fortificacion.netlify.app)); presented results to WFP teams and partners.
+
+### Clinical Trials Reviewer
+
+Centre for State Control of Medicines, Equipment and Medical Devices (CECMED)
+
+Havana
+
+2023 - present
+
+- Critical evaluation of clinical trial protocols and results for regulatory decisions.
+
+### Assistant Professor of Biostatistics
+
+National School of Public Health (ENSAP)
+
+Havana
+
+2022 - present
+
+- Statistical methods for public health; design and conduct of clinical trials.
+
+### Head of Statistical Analysis
+
+National Coordinating Centre for Clinical Trials (CENCEC)
+
+Havana
+
+2013 - 2022
+
+- Statistical analysis plans, sample size, randomisation and analyses for efficacy and safety trials of medicines and biotechnology products.
+
+### Statistician and Head of Research
+
+Dr. José Gregorio Hernández Mission
+
+Venezuela
+
+2010 - 2013
+
+- Statistician of the national Comprehensive Study of Persons with Disabilities; led research design and conduct at the National Centre of Medical Genetics.
+
+### Lecturer (AI in health; mathematical modelling, 2014)
+
+Centre for Cybernetics Applied to Medicine (CECAM)
+
+Havana
+
+2003 - 2010
+
+- Advanced courses on artificial intelligence in health sciences; predictive models for epidemiological analysis.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD in Medical Sciences
+
+University of Medical Sciences of Havana
+
+Havana
+
+2025
+
+Thesis: clinical prediction models for COVID-19 mortality risk.
+
+### Second-degree Specialist in Biostatistics
+
+National School of Public Health (ENSAP)
+
+Havana
+
+2023
+
+### First-degree Specialist in Biostatistics
+
+National School of Public Health (ENSAP)
+
+Havana
+
+2008
+
+### MSc in Health Informatics
+
+Centre for Cybernetics Applied to Medicine (CECAM)
+
+Havana
+
+2007
+
+### Doctor of Medicine
+
+Faculty of Medical Sciences of Cienfuegos (branch of ISCM Villa Clara)
+
+Cienfuegos
+
+2003
+
+Awards {data-icon=trophy data-concise=true}
+--------------------------------------------------------------------------------
+
+### "Hombres de Ciencia" seal — National Health Workers' Union
+
+For the evaluation of medicines and vaccine candidates during COVID-19
+
+Cuba
+
+2021
+
+### Grand Prize, Edusoft; mention, National Annual Health Award; Student Researcher Award
+
+For SiMed, case-simulation software for medical training
+
+Cuba
+
+2003
+
+Selected publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Knowledge and attitudes about artificial intelligence in Cuban health professionals and students
+
+Lecture Notes in Networks and Systems 1526, Springer. doi:10.1007/978-3-031-99699-3_4
+
+N/A
+
+2026
+
+### Estado y tendencias en la investigación sobre modelos de predicción clínica para la estratificación del riesgo de severidad en pacientes confirmados de Covid-19
+
+Revista Habanera de Ciencias Médicas 22(1)
+
+N/A
+
+2023
+
+### Effects of policosanol in patients with metabolic syndrome: a six-month study
+
+Journal of Endocrinology and Metabolism 10(2):36–44
+
+N/A
+
+2020
+
+::: aside
+18 peer-reviewed publications; full list on ORCID. About 40 free web tools for researchers and teachers at bioestadisticaedu.com.
+:::

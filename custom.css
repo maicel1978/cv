@@ -1,0 +1,8 @@
+/* Ajustes mínimos sobre la plantilla resume de pagedown */
+:root {
+  --sidebar-width: 14rem;
+  --sidebar-background-color: #f2f5f8;
+  --main-blocks-title-icon-color: #1f4e79;
+  --decorator-border: 2px solid #c9d6e3;
+}
+#title h3 { font-size: 0.95rem; color: #1f4e79; }
